@@ -4,4 +4,4 @@
 HOLA CHAT 
 
 
-fem un canvi del readme del meu company Canvi fet per GhannyTech
+canvi de lilhusain del FORK
